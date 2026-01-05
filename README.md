@@ -14,14 +14,13 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 極搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 發送詞語幫你找到有趣的羣、頻道、視頻、音樂、電影、新聞 |
 | SOSO機器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 發送關鍵詞來尋找羣組、頻道或視頻           |
-| 極搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_7202424896)             | 發送詞語幫你找到有趣的羣、頻道、視頻、音樂、電影、新聞 |
+| 極搜JiSou  | [@jisou](https://t.me/jisou?start=a_7202424896)             | 發送詞語幫你找到有趣的羣、頻道、視頻、音樂、電影、新聞 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 發送詞語幫你找到有趣的羣、頻道、視頻、音樂、電影、新聞 |
 | 神馬搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 發送詞語即可搜索關聯羣組與頻道資源         |
 | 電報哥的網絡店鋪   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和電報有關的產品服務，低價代充電報會員3月/109、6月/149、12月/259   |
 | Telegram電報會員機器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低價自助開通電報會員機器人，支持USDT、微信、支付寶等支付，1秒克隆同款機器人   |
-| 🚀每日免費節點   | [Free-SSR-V2ray](https://github.com/itgoyo/Free-SSR-V2ray)               | 每天中午12點準時更新免費高速節點   |
-| 🌈彩虹羣發器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息羣發工具，支持多賬號切換，適合營銷推廣  |
-| 免費頻道搬運機器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免費機器人[@xnby001bot](https://t.me/xnby001bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
+| 🌈彩虹羣發器   | [faka.tg10000.com](faka.tg10000.com)        | 快速高效的消息羣發工具，支持多賬號切換，適合營銷推廣  |
+| 免費頻道搬運機器人   | [@xnby08bot](https://t.me/xnby08bot)            | 免費機器人[@xnby08bot](https://t.me/xnby08bot) 搭建[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
 | 搜索羣①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在裏面搜索你想要的一切   |
 | 搜索羣②   | [@jisou20w](https://t.me/jisou20w)            | 可以在裏面搜索你想要的一切   |
 | 搜索羣③   | [@jisou200000](https://t.me/jisoubar)            | 可以在裏面搜索你想要的一切   |
