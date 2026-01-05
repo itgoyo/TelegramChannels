@@ -16,11 +16,7 @@
 | SOSO機器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 發送關鍵詞來尋找羣組、頻道或視頻           |
 | 極搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_7202424896)             | 發送詞語幫你找到有趣的羣、頻道、視頻、音樂、電影、新聞 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 發送詞語幫你找到有趣的羣、頻道、視頻、音樂、電影、新聞 |
-| i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的個體也有自己的品牌。                 |
-| AISO       | [@aiso](https://t.me/aiso?start=telegram_7202424896)                | 查找羣組、頻道、影視、音樂或機器人         |
 | 神馬搜索   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 發送詞語即可搜索關聯羣組與頻道資源         |
-| 🔥修女能量租賃   | [@trxxnbot](https://t.me/trxxnbot)                  | 買能量，租能量，兌換TRX，會員購買，USDT地址監控，USDT餘額查詢，USDT即時匯率查詢一站式服務。通知羣:[@xiunvtrx](https://t.me/xiunvtrx)         |
-| 🔥奧特曼能量租賃   | [@trxaotemanbot](https://t.me/trxaotemanbot)                  | 買能量，租能量，兌換TRX。通知羣:[@aotemantrx](https://t.me/xiunvtrx)         |
 | 電報哥的網絡店鋪   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和電報有關的產品服務，低價代充電報會員3月/109、6月/149、12月/259   |
 | Telegram電報會員機器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低價自助開通電報會員機器人，支持USDT、微信、支付寶等支付，1秒克隆同款機器人   |
 | 🚀每日免費節點   | [Free-SSR-V2ray](https://github.com/itgoyo/Free-SSR-V2ray)               | 每天中午12點準時更新免費高速節點   |
@@ -28,7 +24,7 @@
 | 免費頻道搬運機器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免費機器人[@xnby001bot](https://t.me/xnby001bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
 | 搜索羣①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在裏面搜索你想要的一切   |
 | 搜索羣②   | [@jisou20w](https://t.me/jisou20w)            | 可以在裏面搜索你想要的一切   |
-| 搜索羣③   | [@jisou200000](https://t.me/jisou200000)            | 可以在裏面搜索你想要的一切   |
+| 搜索羣③   | [@jisou200000](https://t.me/jisoubar)            | 可以在裏面搜索你想要的一切   |
 | 搜索羣④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在裏面搜索你想要的一切   |
 | 幣圈導航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰財務自由必備幣圈導航   |
 | 🍉 喫瓜无线 | [https://t.me/chiguabar](https://t.me/chiguawuxian) | 分享全網第一個熱瓜      |
