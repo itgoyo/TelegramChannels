@@ -31,19 +31,8 @@
 | 搜索羣③   | [@jisou200000](https://t.me/jisou200000)            | 可以在裏面搜索你想要的一切   |
 | 搜索羣④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在裏面搜索你想要的一切   |
 | 幣圈導航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰財務自由必備幣圈導航   |
-| 🍉 喫瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全網第一個熱瓜      |
+| 🍉 喫瓜无线 | [https://t.me/chiguabar](https://t.me/chiguawuxian) | 分享全網第一個熱瓜      |
 
-### 曝光不良頻道
-| 名字       | 鏈接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|全國交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真實性不清楚，請勿輕信上當|
-|全國交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|真實性不清楚，請勿輕信上當|
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  騙子(Scammer)    |
-| 匿名配對 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  騙子(Scammer)    |
-| 同城速約 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  騙子(Scammer)    |
-| x癮集中營 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  騙子(Scammer)    |
-| 每日直播 |[https://t.me/+rtNpNWn3ePpkN2Rl](https://t.me/+rtNpNWn3ePpkN2Rl)|  騙子(Scammer)    |
-| 怡紅園 |[https://t.me/+QzbqdUopBX1mOGU8](https://t.me/+QzbqdUopBX1mOGU8)|  騙子(Scammer)    |
 
 ### 機器人搭建有需要聯繫:[@banyunpindao](https://t.me/banyunpindao)
 | 項目                                       | 說明                                              | 價格            |
